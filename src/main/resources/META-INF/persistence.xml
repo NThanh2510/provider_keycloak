@@ -9,7 +9,7 @@
 
             <!-- Database Connection -->
             <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
-            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/provider-db"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/ASM_Keycloak"/>
             <property name="javax.persistence.jdbc.user" value="KC_User"/>
             <property name="javax.persistence.jdbc.password" value="12345"/>
 
